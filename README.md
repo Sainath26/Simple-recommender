@@ -7,8 +7,8 @@ The metric used here is called the 'Weighted Score'
 
 Weighted Rating(WR) = { (v/v+m) * R } + { m/(v+m) * C } 
 
-v is the number of votes for the movie\
-m is the minimum votes required to be listed in the chart\
-R is the average rating of the movie\
-C is the mean vote across the whole report\
+* v is the number of votes for the movie\
+* m is the minimum votes required to be listed in the chart\
+* R is the average rating of the movie\
+* C is the mean vote across the whole report\
 
