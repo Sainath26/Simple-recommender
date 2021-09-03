@@ -12,3 +12,6 @@ Weighted Rating(WR) = { (v/v+m) * R } + { m/(v+m) * C }
 * R is the average rating of the movie
 * C is the mean vote across the whole report
 
+
+Dataset : https://www.kaggle.com/rounakbanik/the-movies-dataset/data
+
